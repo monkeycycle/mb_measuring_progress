@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /wp-includes/js
+User-agent: Googlebot
+Allow: /wp-content/plugins
+Allow: /wp-content/cache
+Allow: /wp-content/themes
